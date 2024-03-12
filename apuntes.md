@@ -6,6 +6,8 @@ Solo hay una copia de cada item en el digital blockchain, así que si compras un
 
 Para finalizar, los NFTs no funcionan como un **sistema de registro de la propiedad**, es decir que cuando compras un NFT no tienes una copia o el derecho de autor, simplemente estás pagando por un hyperlink que te da el certificado digital que prueba que has pagado por ese item. Si encuentras a alguien que esté dispuesto a pagar por ese certificado entonces ganarás dinero, y el valor del NFT aumentará cada vez que haya alguien dispuesto a pagar más dinero que el propietario anterior. 
 
+![](https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bored-ape-2605171.jpg?tf=3840x)
+
 ### Blockchain
 
 Las transacciones bancarias suelen ser operaciones privadas donde una persona autoriza a un banco para que envíe una cantidad de dinero a otra cuenta. 
@@ -18,6 +20,8 @@ El problema principal de blockchain es que tiene acceso a los datos personales d
 
 Bitcoin es una criptomoneda de uso digital que funciona mediante un blockchain donde se guardan todas las transacciones realizadas y evita que estas sean modificadas mediante la **criptografía**. Ningún gobierno tiene control sobre esta moneda digital y tampoco necesita la confianza de ningún sistema externo por lo que podemos pagar algo sin la necesidad de un tercero.
 En un banco normal el ingreso o gasto de dinero queda registrado en un blockchain que el banco controla y se hace cargo de verificar que todos los cambios realizados sean correctos y nadie intente modificarlos. En bitcoin es distinto, todos los usuarios de la red tienen una copia exacta del **libro de contabilidad** digital (blockchain) que se actualiza cada vez que se modifica. Este libro solo puede ser modificado por los mineros ya que estos escriben allí todas las transacciones que quieras realizar. Estos mineros se someten a un **Trabajo de Prueba** para verificar que estén haciendo bien las cosas, en esta prueba los mineros deben escribir en una página (bloque) todas las transacciones que se realizen para encontrar un número secreto. El primero que lo encuentre se unirá a una libreta compartida por todo el mundo y recibirá una recompensa en bitcoins.
+
 ![](https://s.yimg.com/ny/api/res/1.2/ffClAfBN5zMJrkZJTQq_0w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNw--/https://media.zenfs.com/es/benzinga_espana_844/dbfbf1bb78f98e4cb48e052c6d2cdfba)
+
 Una de las principales preocupaciones que tienen algunos usuarios es la posibilidad de que se falsifiquen estos libros de contabilidad, pero en realidad es muy difícil que ocurra ya que al borrar o modificar una de las transacciones estás creando una libreta distinta a la de los demás mineros. Si en el momento de descifrar el número secreto el falsificador lo adivina primero, su libro será más largo pero los demás mineros que descifren el número acabaran teniendo el mismo número de bloques que el falsificador. En ese caso el falsificador tendría que competir contra millones de mineros para descifrar otro número y hacer su blockchain más largo, es decir que habría millones de mineros compitiendo contra uno solo, todos acabarían teniendo el mismo libro y el falsificador acabaría perdiendo.
 El verdadero problema de bitcoin es que **no tiene un valor estable** ya que con el tiempo va incrementando, por lo que no puede ser implementada con éxito como una moneda de uso corriente. Además, bitcoin solo puede realizar **siete transacciones por segundo** en todo el mundo mientras que VISA realiza millones de transacciones al segundo.
