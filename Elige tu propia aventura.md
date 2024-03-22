@@ -1,5 +1,5 @@
 # Elige Tu Propia Aventura
-(Elige Tu Propia Aventura) https://docs.google.com/presentation/d/1wdIhyvd2Xp0Sd2vNgohqrWSnJLkXFd53HavdkCJeLjE/edit?usp=sharing 
+(https://docs.google.com/presentation/d/1wdIhyvd2Xp0Sd2vNgohqrWSnJLkXFd53HavdkCJeLjE/edit?usp=sharing)
 
 ## Concepto
 Es un día lluvioso y decides salir de casa y dar un paseo por el bosque. A medida que vas caminando ocurren sucesos extraños. Tendrás que tomar decisiones importantes que podrían cambiar tu destino. 
