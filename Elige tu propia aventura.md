@@ -26,6 +26,7 @@ Es un día lluvioso y decides salir de casa y dar un paseo por el bosque. A medi
 
 ## Boceto
 [Boceto 1](https://github.com/paula1234444/Videojuegos.rep/assets/162313819/f034dd1f-5960-45b4-9c6f-36ceb949fdf9)
+
 [Boceto 2](https://github.com/paula1234444/Videojuegos.rep/assets/162313819/805494e7-41d6-4532-bbb0-86453bc95f1f)
 
 ## Licencia
