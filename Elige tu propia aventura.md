@@ -13,9 +13,11 @@ Es un día lluvioso y decides salir de casa y dar un paseo por el bosque. A medi
 
 **Donatello**: Es italiano. Es un hombre joven, muy atrevido y carismático. Es moreno de ojos marrones.
 
-**Esteban trabajo**: Steve Jobs de la edad media, el emperador del imperio romano
+**Esteban Trabajo**: Steve Jobs de la edad media, el emperador del imperio romano
 
 **Gnomos**: agresivos
+
+**Mariachi**: vende unos taquitos al pastor un tanto peculiares
 
 ## Sinopsis de cada camino
 **1**. Sigues andando y el camino se divide en dos; si vas por la izquierda te encontrarás con un mexicano que te ofrecerá tacos al pastor. Deberás decidir si aceptarlos o rechazarlos, ambas acciones tienen consecuencias graves. En cambio si vas por la derecha caerás en un charco que te llevará hasta la isla de las tentaciones donde, según lo que decidas, morirás ahogado o conocerás al amor de tu vida.
