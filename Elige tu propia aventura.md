@@ -19,30 +19,29 @@ Esteban trabajo: Steve Jobs de la edad media, el emperador del imperio romano
 ## Imágenes extraidas de Pixaby
 ![image](https://github.com/paula1234444/Videojuegos.rep/assets/162313819/709fa8ff-73f7-4a8c-a4ea-47af9d6a667e)
 (Bosque) https://pixabay.com/photos/avenue-trees-path-sunbeams-sunrays-815297/
-<img src="https://pixabay.com/photos/avenue-trees-path-sunbeams-sunrays-815297/" width="100" height="100">
 
-![](https://pixabay.com/photos/food-truck-colorful-truck-retro-3611844/)
+![image](https://github.com/paula1234444/Videojuegos.rep/assets/162313819/a1aa3594-9527-4d48-8208-6a70930fd776)
 (Food truck) https://pixabay.com/photos/food-truck-colorful-truck-retro-3611844/
 
-![](https://pixabay.com/photos/romans-romans-legionaries-342413/)
+![image](https://github.com/paula1234444/Videojuegos.rep/assets/162313819/3f5ff2bc-9901-4f4d-9a3a-299ccb06f57d)
 (Roman Empire) https://pixabay.com/photos/romans-romans-legionaries-342413/
 
-![](https://pixabay.com/photos/kangaroo-eastern-grey-kangaroo-6664356/)
-(Canguro) https://pixabay.com/photos/kangaroo-eastern-grey-kangaroo-6664356/
+![image](https://github.com/paula1234444/Videojuegos.rep/assets/162313819/93d7f86a-b32b-4445-836d-89cbc3756a5c)
+(Kangaroo) https://pixabay.com/photos/kangaroo-eastern-grey-kangaroo-6664356/
 
-![](https://pixabay.com/photos/australia-brisbane-animal-wildlife-2680840/)
-(Canguros) https://pixabay.com/photos/australia-brisbane-animal-wildlife-2680840/
+![image](https://github.com/paula1234444/Videojuegos.rep/assets/162313819/e4468f41-dbf1-4168-bf1f-76f9e006f1dd)
+(Kangaroos) https://pixabay.com/photos/australia-brisbane-animal-wildlife-2680840/
 
-![](https://pixabay.com/photos/upset-overwhelmed-stress-tired-2681502/)
-(Worried) https://pixabay.com/photos/upset-overwhelmed-stress-tired-2681502/
+![image](https://github.com/paula1234444/Videojuegos.rep/assets/162313819/ccecf8a1-6dba-4504-bd8b-755d44f9dc6c)
+(Upset) https://pixabay.com/photos/upset-overwhelmed-stress-tired-2681502/
 
-![](https://pixabay.com/photos/animal-baboon-mammal-zoo-species-7037807/)
+![image](https://github.com/paula1234444/Videojuegos.rep/assets/162313819/9ab722e8-0313-4894-bedc-0e7cfa166b71)
 (Baboon) https://pixabay.com/photos/animal-baboon-mammal-zoo-species-7037807/
 
-![](https://pixabay.com/photos/prison-prison-cell-jail-crime-553836/)
+![image](https://github.com/paula1234444/Videojuegos.rep/assets/162313819/7d997cc7-eb7d-4be4-a0d2-16c6c4c191ab)
 (Prison) https://pixabay.com/photos/prison-prison-cell-jail-crime-553836/
 
-![](https://pixabay.com/photos/man-surprise-shock-surprised-211505/)
+![image](https://github.com/paula1234444/Videojuegos.rep/assets/162313819/98926304-2296-4362-8b8a-921d9f40f0d6)
 (Man Surprise Shock) https://pixabay.com/photos/man-surprise-shock-surprised-211505/
 
 ## Licencia
