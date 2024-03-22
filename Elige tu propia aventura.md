@@ -19,6 +19,7 @@ Esteban trabajo: Steve Jobs de la edad media, el emperador del imperio romano
 ## Imágenes extraidas de Pixaby
 ![image](https://github.com/paula1234444/Videojuegos.rep/assets/162313819/709fa8ff-73f7-4a8c-a4ea-47af9d6a667e)
 (Bosque) https://pixabay.com/photos/avenue-trees-path-sunbeams-sunrays-815297/
+<img src="https://pixabay.com/photos/avenue-trees-path-sunbeams-sunrays-815297/" width="100" height="100">
 
 ![](https://pixabay.com/photos/food-truck-colorful-truck-retro-3611844/)
 (Food truck) https://pixabay.com/photos/food-truck-colorful-truck-retro-3611844/
