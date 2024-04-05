@@ -7,17 +7,17 @@ Es un día lluvioso y decides salir de casa y dar un paseo por el bosque. A medi
 ## Personajes
 **Dwayne**: Canguro australiano, es alto, fuerte y muy agresivo pero a pesar de esto es muy amigable y le gusta entablar conversaciones.
 
-**Centauro**: Vive en una pequeña cabaña de madera en medio del bosque. Es alto y robusto, le gusta darse baños de barro.
+**Centauro**: Se llama Giorgio, vive en una pequeña cabaña de madera en medio del bosque. Es alto y robusto, le gusta darse baños de barro y echarse mascarillas de aguacate para abrillantar su preciosa melena. Tiene poca paciencia y por alguna razón lleva parmesano en los bolsillos.
 
-**Romeo**: Es un treintañero pretencioso y engreido, solo habla de sí mismo. Tiene pelo negro, ojos azules y una perilla mal afeitada.
+**Romeo**: Es un treintañero Guatemalteco pretencioso y egocéntrico, solo habla de sí mismo. Tiene el pelo negro, ojos azules y una perilla mal afeitada.
 
-**Donatello**: Es italiano. Es un hombre joven, muy atrevido y carismático. Es moreno de ojos marrones.
+**Donatello**: Es italiano y tiene el acento marcado. Es un hombre alto y joven con el pelo castaño y los ojos marrones. Es muy atrevido y carismático.
 
 **Esteban Trabajo**: Steve Jobs de la edad media, el emperador del imperio romano
 
 **Gnomos**: agresivos
 
-**Mariachi**: vende unos taquitos al pastor un tanto peculiares
+**Mariachi**: vende unos taquitos al pastor un tanto peculiares, canta rancheras y se le ve muy alegre y extrañamente eufórico
 
 ## Sinopsis de cada camino
 **1**. Sigues andando y el camino se divide en dos; si vas por la izquierda te encontrarás con un mexicano que te ofrecerá tacos al pastor. Deberás decidir si aceptarlos o rechazarlos, ambas acciones tienen consecuencias graves. En cambio si vas por la derecha caerás en un charco que te llevará hasta la isla de las tentaciones donde, según lo que decidas, morirás ahogado o conocerás al amor de tu vida.
